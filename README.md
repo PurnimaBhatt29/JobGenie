@@ -23,6 +23,3 @@
 | Database    | Supabase                  |
 | Auth        | Clerk   |
 ---
-
-##  Project Structure
-
